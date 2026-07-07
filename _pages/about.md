@@ -17,24 +17,27 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am **Sashuai Zhou**, currently a Master's student at the **College of Computer Science and Technology, Zhejiang University**, advised by Prof. Zhou Zhao.
 
-My research focuses on **multimodal large models**, particularly on the **alignment between reasoning and generation**. I am interested in improving the **spatial consistency, logical reasoning ability, and controllable generation** of multimodal foundation models under complex instructions.
+I am **Sashuai Zhou**, currently a Master's student at the **College of Computer Science and Technology, Zhejiang University**, under the supervision of Prof. Zhou Zhao.
 
-My recent work explores a full pipeline including:
+Driven by the vision of building general visual artificial intelligence (AGI), my research focuses on advancing the **visual understanding and reasoning capabilities of multimodal large models**. Specifically, I investigate how models can extract structured spatio-temporal semantic representations from images and videos to deeply comprehend motion, spatial layouts, and complex scenes. Ultimately, my goal is to bridge the gap between comprehension and generation via verifiable reasoning frameworks.
 
-- Multimodal representation learning  
-- Generative foundation model pretraining  
-- Executable reasoning and structured planning
+To achieve this, my recent work explores a comprehensive pipeline encompassing:
+
+* **Visual Representation Learning & Video Temporal Modeling**: Capturing robust temporal dynamics and spatial relationships.
+* **Generative Foundation Model Pre-training**: Building strong, scalable base models for diverse multimodal tasks.
+* **Verifiable Reasoning & Alignment**: Developing executable structured planning, reward modeling, and reinforcement learning techniques to enhance model robustness in complex, real-world scenarios.
+
 
 ---
 
 # 🔥 News
 
+- *2024.02* 🎉 One paper accepted by **CVPR 2025**.
 - *2025.02* 🎉 One paper accepted by **EMNLP 2025**.  
 - *2025.01* 🎉 One paper accepted by **ICME 2025 (Oral)**.  
-- *2024.12* 🎉 One paper accepted by **CVPR 2025**.  
-- *2024.11* 📄 One paper submitted to **ACL 2026 ARR** on multimodal reasoning and planning.
+- *2026.02* 🎉 One paper accepted by **CVPR 2026**.  
+- *2026.04* 📄 One paper accepted by **ACL 2026 （oral）** on multimodal reasoning and planning.
 
 ---
 
@@ -119,29 +122,34 @@ Zehan Wang*, **Sashuai Zhou***, Shaoxuan He, et al.
 
 # 🎖 Honors and Awards
 
-- National Scholarship  
-- Outstanding Graduate of Zhejiang University  
+- **National Scholarship**, Ministry of Education
+- **First-Class Scholarship**, Zhejiang University
+- **Outstanding Graduate**, Zhejiang University
+- **First Prize**, National Mathematics Competition for College Students
 
 ---
 
 # 📖 Education
 
 - *2024 – Present*, **Zhejiang University**, Master, Computer Science  
-
-- *2020 – 2024*, **Zhejiang University**, Undergraduate, Chu Kochen Honors College(Turing Class), Computer Science
+- *2020 – 2024*, **Zhejiang University**, Undergraduate, Chu Kochen Honors College (Turing Class), Computer Science
 
 ---
 
-# 💻 Research Experience
+# 💻 Research & Industry Experience
 
-- *2024 – Present*, Research Assistant, **Zhejiang University**
 
-Research on **multimodal foundation models**, focusing on:
+- *2026.04 – Present*, Research Intern, **Alibaba Group (Tongyi Qwen-VL Team)**  
+  - Optimize **Qwen-VL**'s video understanding via temporal reasoning, motion perception, and dynamic data pipelines.
 
-- Multimodal reasoning and generation alignment  
-- Reinforcement learning optimization  
-- Structured planning for multimodal models
+- *2025.07 – 2026.04*, Research Intern, **Alibaba Group (ATH Future Living Lab)**  
+  - Proposed **SpatialReward** and **Unified Thinker** for video/image editing foundation models, enhancing spatial consistency and complex instruction execution (**CVPR 2026 / ACL 2026**).
 
+- *2024.11 – 2025.06*, Research Intern, **Huawei Noah's Ark Lab**  
+  - Co-developed **RecBase** (generative recommendation model) by designing a unified discrete encoder and an autoregressive Transformer for zero-shot generalization (**EMNLP 2025**).
+
+- *2024 – Present*, Research Assistant, **Zhejiang University**  
+  - Focus on multimodal reasoning-generation alignment, RL optimization, and structured planning.
 ---
 
 # 💬 Contact
