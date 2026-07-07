@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name: Sashuai Zhou
   chinese_name: 周洒帅
-  avatar: "/images/zss_carton.jpg"
+  avatar: "./images/zss_carton.jpg"
   email: chouss911@gmail.com
   github: https://github.com/master-chou
   city: Hangzhou
