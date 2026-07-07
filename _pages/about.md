@@ -150,9 +150,9 @@ Zehan Wang*, **Sashuai Zhou***, Shaoxuan He, et al.
 
 - *2024 – Present*, Research Assistant, **Zhejiang University**  
   - Focus on multimodal reasoning-generation alignment, RL optimization, and structured planning.
+  
 ---
 
 # 💬 Contact
 
 Email: chouss911@gmail.com  
-GitHub: https://github.com/master-chou
